@@ -88,11 +88,11 @@ body::after {
 .paw-print {
   width: 88px;
   aspect-ratio: 1;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'%3E%3Cellipse cx='60' cy='84' rx='31' ry='24' fill='%23ffd8eb' fill-opacity='0.55' stroke='%23fff7fc' stroke-opacity='0.92' stroke-width='2.5'/%3E%3Cellipse cx='22' cy='59' rx='16' ry='21' fill='%23ffd8eb' fill-opacity='0.55' stroke='%23fff7fc' stroke-opacity='0.92' stroke-width='2.5'/%3E%3Cellipse cx='45' cy='26' rx='13' ry='20' fill='%23ffd8eb' fill-opacity='0.55' stroke='%23fff7fc' stroke-opacity='0.92' stroke-width='2.5'/%3E%3Cellipse cx='75' cy='26' rx='13' ry='20' fill='%23ffd8eb' fill-opacity='0.55' stroke='%23fff7fc' stroke-opacity='0.92' stroke-width='2.5'/%3E%3Cellipse cx='98' cy='59' rx='16' ry='21' fill='%23ffd8eb' fill-opacity='0.55' stroke='%23fff7fc' stroke-opacity='0.92' stroke-width='2.5'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'%3E%3Cellipse cx='22' cy='58' rx='15' ry='20' fill='%23ffe6f1' fill-opacity='0.10' stroke='%23fff8fc' stroke-opacity='0.95' stroke-width='1.4'/%3E%3Cellipse cx='45' cy='26' rx='13' ry='19' fill='%23ffe6f1' fill-opacity='0.10' stroke='%23fff8fc' stroke-opacity='0.95' stroke-width='1.4'/%3E%3Cellipse cx='75' cy='26' rx='13' ry='19' fill='%23ffe6f1' fill-opacity='0.10' stroke='%23fff8fc' stroke-opacity='0.95' stroke-width='1.4'/%3E%3Cellipse cx='98' cy='58' rx='15' ry='20' fill='%23ffe6f1' fill-opacity='0.10' stroke='%23fff8fc' stroke-opacity='0.95' stroke-width='1.4'/%3E%3Cpath d='M60 101C56 101 52 99 48 96C37 88 29 80 29 68C29 56 37 48 48 48C54 48 58 50 60 54C62 50 66 48 72 48C83 48 91 56 91 68C91 80 83 88 72 96C68 99 64 101 60 101Z' fill='%23ffe6f1' fill-opacity='0.08' stroke='%23fff8fc' stroke-opacity='0.95' stroke-width='1.4' stroke-linejoin='round'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  filter: drop-shadow(0 12px 26px rgba(128, 16, 76, 0.12));
+  filter: drop-shadow(0 10px 18px rgba(128, 16, 76, 0.1));
 }
 
 .paw-print-top {
